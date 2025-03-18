@@ -1,0 +1,64 @@
+# Version control
+.git
+.gitignore
+.svn
+.hg
+
+# Development environments
+.env
+.venv
+venv/
+env/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+*.pyc
+__pycache__/
+*.class
+*.o
+*.obj
+
+# Logs and databases
+*.log
+logs/
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker specific
+Dockerfile
+.dockerignore
+docker-compose*.yml
+
+# Documentation
+README.md
+CHANGELOG.md
+docs/
+*.md
+
+# Test files
+test/
+tests/
+coverage/
+.coverage
+.pytest_cache/
