@@ -13,7 +13,10 @@ RUN echo 'System Information:' \
     && echo 'Current Date and Time:' \
     && date
 
+
 # Set the default command to run when the container starts
 # This command will echo the system information using `uname -a`, a hello world message, and the current date and time to stdout, then exit cleanly.
 CMD ["sh", "-c", "echo 'System Information:' && uname -a && echo 'Hello, World!' && echo 'Current Date and Time:' && date"]
 # The `uname -a` command prints all system information, including the kernel name, version, and architecture.
+
+
