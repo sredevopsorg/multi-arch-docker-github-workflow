@@ -2,9 +2,11 @@
 
 ## How to build a Multi-Architecture Docker Image in Github Actions using multiple runners without QEMU
 
-<center><img alt="Logo SREDevOps.org" src="https://raw.githubusercontent.com/sredevopsorg/multi-arch-docker-github-workflow/main/docs/images/logo.png" /></center>
+<center><img alt="Logo SREDevOps.org" src="https://www.sredevops.org/content/images/2024/11/sredevopsorg.svg" /></center>
 
-Created by [SREDevOps.org](https://sredevops.org) | [@sredevopsorg](https://github.com/sredevopsorg) | [@ngeorger](https://github.com/ngeorger)
+Created by [SREDevOps.org](https://www,sredevops.org) | [@sredevopsorg](https://github.com/sredevopsorg) | [@ngeorger](https://github.com/ngeorger)
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11363/badge)](https://www.bestpractices.dev/projects/11363)
 
 By following these steps and reviewing the workflow file, you can customize and use this multi-architecture build process in your own projects. Happy building!
 
